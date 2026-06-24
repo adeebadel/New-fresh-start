@@ -1,0 +1,8 @@
+print("I am 20 years old")
+print("i train MMA")
+print("I am studying data science")
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
